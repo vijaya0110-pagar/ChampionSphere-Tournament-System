@@ -35,7 +35,7 @@ CORS for cross-origin requests
 dotenv for environment variables
 
 📁 Project Structure
-
+'''text
 sports-tournament-system/
 ├── backend/                 # Node.js/Express API server
 │   ├── src/
@@ -68,7 +68,7 @@ sports-tournament-system/
 ├── database/
 │   └── schema.sql          # MySQL database schema
 └── README.md
-
+---
 🚀 Quick Start
 Prerequisites
 Node.js (v16 or higher)
