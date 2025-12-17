@@ -68,7 +68,7 @@ sports-tournament-system/
 ├── database/
 │   └── schema.sql          # MySQL database schema
 └── README.md
----
+'''
 🚀 Quick Start
 Prerequisites
 Node.js (v16 or higher)
