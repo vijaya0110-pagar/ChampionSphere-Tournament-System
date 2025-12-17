@@ -1,0 +1,5 @@
+
+> tournament-backend@1.0.0 dev
+> tsx watch src/server.ts
+
+sh: /Users/vijayapagar/Documents/sports-tournament-system/backend/node_modules/.bin/tsx: /usr/bin/env: bad interpreter: Operation not permitted

@@ -1,0 +1,5 @@
+
+> tournament-frontend@1.0.0 dev
+> vite
+
+sh: /Users/vijayapagar/Documents/sports-tournament-system/frontend/node_modules/.bin/vite: /usr/bin/env: bad interpreter: Operation not permitted
