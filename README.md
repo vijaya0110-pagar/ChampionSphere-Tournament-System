@@ -34,7 +34,7 @@ TypeScript for type safety
 CORS for cross-origin requests
 dotenv for environment variables
 
-📁 Project Structure
+## 📁 Project Structure
 '''text
 sports-tournament-system/
 ├── backend/                 # Node.js/Express API server
